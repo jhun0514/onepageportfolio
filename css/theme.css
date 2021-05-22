@@ -110,7 +110,7 @@ table tbody td i:hover { font-size: 2rem; color: #7A33FF; cursor: pointer; }
 .progress-desc { padding-top: 2px; font-size: 0.6rem; font-weight: 500; letter-spacing: 0; color: #ffffff; }
 
 /* table - awards  */
-#awards img { border-radius: 50%;}
+#awards img { border-radius: 10%;}
 td .profile { padding-top: 0.5rem; }
 .table > :not(caption) > * > * { padding: 1rem 0.5rem; }
 
