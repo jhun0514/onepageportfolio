@@ -1922,6 +1922,7 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
+
 .table {
   --bs-table-bg: transparent;
   --bs-table-striped-color: #212529;
@@ -10713,5 +10714,3 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-
-
